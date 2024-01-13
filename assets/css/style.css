@@ -1693,6 +1693,10 @@ section {
   margin-bottom: 30px;
 }
 
+#footer .footer-top .footer-contact img {
+  height: 100px;
+}
+
 #footer .footer-top .footer-contact h3 {
   font-size: 28px;
   margin: 0 0 10px 0;
